@@ -3,7 +3,7 @@
 🔭 **Currently Working On:** AI-powered gesture recognition systems, wearable interfaces, and signal-based interaction technologies.  
 🌱 **Learning:** Advanced visualization, simulation environments, and novel ways to embed intelligence into real-world systems.   
 💬 **Ask Me About:** Deploying custom AI models for real-time signal processing, and bridging AI with physical systems.    
-🎓 **Education:** First Class B.Eng. in Computer Engineering (Valedictorian, Nile University of Nigeria, 2024).  
+🎓 **Education:** First Class B.Eng. in Computer Engineering (Nile University of Nigeria, 2024).  
 🛠️ **Skills & Tools:**  
 - **Programming:** Python, C/C++, ONNX Runtime, TensorFlow  
 - **Visualization & Simulation:** Blender, Three.js, Raylib, Processing, ImPlot, ImGui  
