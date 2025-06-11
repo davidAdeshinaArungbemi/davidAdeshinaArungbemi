@@ -5,11 +5,11 @@
 💬 **Ask Me About:** Deploying custom AI models for real-time signal processing, and bridging AI with physical systems.    
 🎓 **Education:** First Class B.Eng. in Computer Engineering (Valedictorian, Nile University of Nigeria, 2024).  
 🛠️ **Skills & Tools:**  
-• **Programming:** Python, C/C++, ONNX Runtime, TensorFlow  
-• **Visualization & Simulation:** Blender, Three.js, Raylib, Processing, ImPlot, ImGui  
-• **Embedded Systems:** ESP32, microcontroller programming, MQTT  
-• **Scientific Libraries:** NumPy, SciPy, Matplotlib, Seaborn  
-• **Other:** LaTeX, Git, MATLAB 
+  • **Programming:** Python, C/C++, ONNX Runtime, TensorFlow  
+  • **Visualization & Simulation:** Blender, Three.js, Raylib, Processing, ImPlot, ImGui  
+  • **Embedded Systems:** ESP32, microcontroller programming, MQTT  
+  • **Scientific Libraries:** NumPy, SciPy, Matplotlib, Seaborn  
+  • **Other:** LaTeX, Git, MATLAB 
 
 
 
