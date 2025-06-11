@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 **Working on:** Gesture-based AI, wearable tech, and applied AI projects.  <br>🌱 **Learning:** SciML and  visualization methods.  <br>🤝 **Open to Collaborations in:** Applied AI, space tech, and interactive visualization.  <br>🤔 **Looking for Internships in:** Health tech, space tech, or engineering applications.  <br>💬 **Ask me about:** AI models for time series data—optimizing and customizing them for real-world use.  <br>🚀 **Fun fact:** I dream of exploring space and designing tech that pushes humanity forward.  <br>🎓 **Education:** Graduated from Nile University of Nigeria with a Bachelor's degree in Computer Engineering.<br>
+# 💫 About Me
+
+🔭 **Currently Working On:** AI-powered gesture recognition systems, wearable interfaces, and signal-based interaction technologies.  
+🌱 **Learning:** Advanced visualization, simulation environments, and novel ways to embed intelligence into real-world systems.   
+💬 **Ask Me About:** Deploying custom AI models for real-time signal processing, and bridging AI with physical systems.    
+🎓 **Education:** First Class B.Eng. in Computer Engineering (Valedictorian, Nile University of Nigeria, 2024).  
+🛠️ **Skills & Tools:**  
+• **Programming:** Python, C/C++, ONNX Runtime, TensorFlow  
+• **Visualization & Simulation:** Blender, Three.js, Raylib, Processing, ImPlot, ImGui  
+• **Embedded Systems:** ESP32, microcontroller programming, MQTT  
+• **Scientific Libraries:** NumPy, SciPy, Matplotlib, Seaborn  
+• **Other:** LaTeX, Git, MATLAB 
+
 
 
 ## 🌐 Socials:
