@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 👋 Hi, I'm **David Adeshina Arungbemi** – a **Computer Engineer, AI Engineer, and Creative Technologist**.  
 I specialize in **AI, immersive visualization, and human-computer interaction**, building systems that enhance **perception, creativity, and interaction**.
