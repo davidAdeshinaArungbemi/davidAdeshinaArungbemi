@@ -8,7 +8,7 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
   Leading AI development for **gesture recognition, wearable interfaces, and intelligent perception systems**.
 
 ### 🎓 Education
-- **B.Eng. Computer Engineering **  
+- **B.Eng. Computer Engineering**  
   Nile University of Nigeria, 2024
 
 ### 🛠 Skills
