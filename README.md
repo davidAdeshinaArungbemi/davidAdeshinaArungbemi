@@ -8,7 +8,7 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
   Leading AI development for **gesture recognition, wearable interfaces, and intelligent perception systems**.
 
 ### 🎓 Education
-- **B.Eng. Computer Engineering (First Class, 5.0 CGPA)**  
+- **B.Eng. Computer Engineering **  
   Nile University of Nigeria, 2024
 
 ### 🛠 Skills
@@ -22,7 +22,7 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
 
 ## 🌐 Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
-We create **AI-powered perception systems** for **gesture tracking, wearable devices, and interactive environments**.
+**Gyronics transforms how you interact with technology**. Control apps, drones, and devices with intuitive, hands‑free gestures—no keyboards, controllers, or remotes needed.
 
 ---
 
