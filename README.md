@@ -21,7 +21,7 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
 ---
 
 ## 🌐 Gyronics
-**Website:** [https://gyronics.tech](https://gyronics.com)  
+**Website:** [Gyronics](https://gyronics.com)  
 We create **AI-powered perception systems** for **gesture tracking, wearable devices, and interactive environments**.
 
 ---
