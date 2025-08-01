@@ -5,7 +5,7 @@ My focus for now is on **AI, immersive visualization, and human-computer interac
 
 ### 🔭 Current Role
 - **Co‑Founder & Lead AI Engineer** at **[Gyronics](https://gyronics.com)**  
-  Leading AI development for **gesture recognition, wearable interfaces, and intelligent perception systems**.
+  Leading AI development and inference for **gesture recognition, wearable interfaces**.
 
 ### 🎓 Education
 - **B.Eng. Computer Engineering**  
