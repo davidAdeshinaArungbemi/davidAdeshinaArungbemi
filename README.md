@@ -26,6 +26,11 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
 
 ---
 
+### 📫 Contact
+- **LinkedIn:** [davidadeshina](https://www.linkedin.com/in/davidadeshina)  
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=davidAdeshinaArungbemi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=davidAdeshinaArungbemi&theme=material-palenight&hide_border=false)
@@ -34,3 +39,5 @@ I specialize in **AI, immersive visualization, and human-computer interaction**,
 ---
 
 [![](https://visitcount.itsvg.in/api?id=davidAdeshinaArungbemi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
