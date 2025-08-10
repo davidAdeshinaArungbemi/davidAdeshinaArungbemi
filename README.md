@@ -28,7 +28,7 @@ My focus for now is on **AI, immersive visualization, and human-computer interac
 
 ### 📫 Contact
 - **LinkedIn:** [davidadeshina](https://www.linkedin.com/in/davidadeshina)  
-
+- **Some past 3D model work** [david](facebook.com/dave.gbemi.98)
 ---
 
 ## 📊 GitHub Stats
