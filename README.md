@@ -41,3 +41,10 @@ My focus for now is on **AI, immersive visualization, and human-computer interac
 [![](https://visitcount.itsvg.in/api?id=davidAdeshinaArungbemi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## Weird Ideas (Conceptual/Architectures)
+<img width="2860" height="2336" alt="Semantic  Reasoning  Search" src="https://github.com/user-attachments/assets/625f759f-4928-4b7b-903b-d55c8d5e9fa5" />
+<img width="6404" height="3204" alt="Reasoning" src="https://github.com/user-attachments/assets/5f5296ec-678a-447f-bd24-ea473a4adc4d" />
+
+
+
+
