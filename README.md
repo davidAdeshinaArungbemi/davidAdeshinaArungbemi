@@ -3,20 +3,8 @@
 👋 Hi, I'm **David Adeshina Arungbemi** <!-- – a **Computer Engineer, AI Engineer, and Creative Technologist**.  
 My focus for now is on **AI, immersive visualization, and human-computer interaction**, building systems that enhance **perception, creativity, and interaction**. -->
 
-### 🔭 Current Role
-- **Co‑Founder & Lead AI Engineer** at **[Gyronics](https://gyronics.com)**  
-  Leading AI development and inference for **gesture recognition, wearable interfaces**.
-
-### 🎓 Education
-- **B.Eng. Computer Engineering**  
-  Nile University of Nigeria, 2024
-
-### 🛠 Skills
-- **Programming:** Python, C/C++, TypeScript  
-- **AI & ML:** TensorFlow, Keras, ONNX Runtime, Scikit-learn, NumPy, SciPy  
-- **Visualization & Graphics:** Blender, Three.js, Processing, Raylib  
-- **Embedded & IoT:** ESP32, MQTT, microcontroller programming  
-- **Tools:** Git, GitHub, LaTeX, MATLAB  
+## Learn More About Me
+**Website** [Website](https://davidadeshinaarungbemi.github.io/)
 
 ---
 
