@@ -2,9 +2,6 @@
 
 👋 Hi, I'm **David Adeshina Arungbemi**
 
-## Learn More About Me
-**Website** In Progress.
-
 ---
 
 ### Me
