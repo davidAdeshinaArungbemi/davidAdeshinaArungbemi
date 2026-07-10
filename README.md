@@ -7,6 +7,15 @@
 
 ---
 
+### Alter
+Some of my experimental and conceptual work is conducted under a pseudonym:
+
+[Suzume Github](https://github.com/suzume-hue)
+
+[Suzume Medium](https://suzume1.medium.com/)
+
+---
+
 ## 🌐 Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
 Co-founder, Lead AI. Co-founder and Lead AI. Leading the design and development of AI systems for gesture recognition and human-AI interaction.
@@ -16,13 +25,6 @@ Co-founder, Lead AI. Co-founder and Lead AI. Leading the design and development 
 ### 📫 Contact
 - **LinkedIn:** [davidadeshina](https://www.linkedin.com/in/davidadeshina)  
 ---
-
-### Alter
-Some of my experimental and conceptual work is conducted under a pseudonym:
-
-[Suzume Github](https://github.com/suzume-hue)
-
-[Suzume Medium](https://suzume1.medium.com/)
 
 #### Old Stuff
 
