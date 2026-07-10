@@ -8,7 +8,7 @@
 ---
 
 ### Alter
-Some of my experimental and conceptual work is conducted under a pseudonym:
+Present experimental and conceptual work is conducted under a pseudonym:
 
 [Suzume Github](https://github.com/suzume-hue)
 
