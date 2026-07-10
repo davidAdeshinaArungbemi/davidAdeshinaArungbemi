@@ -6,12 +6,17 @@
 
 ### Me
 Present experimental and conceptual work is conducted under a pseudonym:
+#Aesthetics, #AI Evaluation, #Philosophy-inspired, #AI, #Others
 
 [Suzume Github](https://github.com/suzume-hue)
 
 [Suzume Medium](https://suzume1.medium.com/)
 
 ---
+
+### Latest works
+- [Narrative Transportation and Speciesism in Large Language Models](https://github.com/suzume-hue): Futurekind Fellowship Spring 2026
+
 
 ## Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
