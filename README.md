@@ -6,6 +6,7 @@
 
 ### Me
 Present experimental and conceptual work is conducted under a pseudonym:
+
 #Aesthetics, #AI Evaluation, #Philosophy-inspired, #AI, #Others
 
 [Suzume Github](https://github.com/suzume-hue)
