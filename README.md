@@ -4,7 +4,7 @@
 
 ---
 
-### Me
+### Alter
 Present experimental and conceptual work is conducted under a pseudonym:
 
 #Aesthetics, #AI, #AI Safety, #Moral Status, #Philosophy-inspired, #AI, #Interdisciplinary, #Conceptual
