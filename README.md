@@ -7,7 +7,7 @@
 ### Me
 Present experimental and conceptual work is conducted under a pseudonym:
 
-#Aesthetics, #AI Evaluation, #Philosophy-inspired, #AI, #Others
+#Aesthetics, #AI, #AI Safety, #Moral Status, #Philosophy-inspired, #AI, #Interdisciplinary, #Conceptual
 
 [Suzume Github](https://github.com/suzume-hue)
 
