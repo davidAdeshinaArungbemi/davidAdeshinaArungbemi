@@ -13,16 +13,16 @@ Present experimental and conceptual work is conducted under a pseudonym:
 
 ---
 
-## 🌐 Gyronics
+## Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
 Co-founder, Lead AI. Co-founder and Lead AI. Leading the design and development of AI systems for gesture recognition and human-AI interaction.
 
 ---
 
-### 📫 Contact
+### Contact
 - **LinkedIn:** [davidadeshina](https://www.linkedin.com/in/davidadeshina)  
 ---
 
-#### Old Stuff
+### Old Stuff
 
 - **Some past 3D model work** [david](https://www.facebook.com/dave.gbemi.98)
