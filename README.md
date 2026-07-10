@@ -7,7 +7,7 @@
 
 ---
 
-### Alter
+### Me
 Present experimental and conceptual work is conducted under a pseudonym:
 
 [Suzume Github](https://github.com/suzume-hue)
