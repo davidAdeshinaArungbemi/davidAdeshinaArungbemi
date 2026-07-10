@@ -19,9 +19,11 @@ Co-founder, Lead AI. Co-founder and Lead AI. Leading the design and development 
 
 ### Alter
 Some of my experimental and conceptual work is conducted under a pseudonym:
+
 [Suzume Github](github.com/suzume-hue)
 
 [Suzume Medium](suzume1.medium.com/)
 
 #### Old Stuff
+
 - **Some past 3D model work** [david](https://www.facebook.com/dave.gbemi.98)
