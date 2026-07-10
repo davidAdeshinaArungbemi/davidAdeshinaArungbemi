@@ -16,7 +16,7 @@ Present experimental and conceptual work is conducted under a pseudonym:
 ---
 
 ### Latest works
-- [Narrative Transportation and Speciesism in Large Language Models](https://github.com/suzume-hue): Futurekind Fellowship Spring 2026
+- [Narrative Transportation and Speciesism in Large Language Models](https://github.com/suzume-hue): Futurekind Fellowship Spring 2026, Actual link coming soon
 
 
 ## Gyronics
