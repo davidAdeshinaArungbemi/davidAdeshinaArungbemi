@@ -7,7 +7,7 @@
 ### Alter
 Present experimental and conceptual work is conducted under a pseudonym:
 
-#Aesthetics, #AI, #AI Safety, #Moral Status, #Philosophy-inspired, #AI, #Interdisciplinary, #Conceptual, #Narratives
+#Aesthetics, #AI, #AI Safety, #Multi-agent, #Evaluation, #Computational, #Moral Status, #Philosophy-inspired, #AI, #Interdisciplinary, #Conceptual, #Narratives
 
 [Suzume Github](https://github.com/suzume-hue)
 
