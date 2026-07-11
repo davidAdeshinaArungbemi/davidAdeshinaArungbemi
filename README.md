@@ -23,7 +23,7 @@ Present experimental and conceptual work is conducted under a pseudonym:
 
 ## Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
-Co-founder, Lead AI. Co-founder and Lead AI. Leading the design and development of AI systems for gesture recognition and human-AI interaction.
+Co-founder and Lead AI. Leading the design and development of AI systems for gesture recognition and human-AI interaction.
 
 ---
 
