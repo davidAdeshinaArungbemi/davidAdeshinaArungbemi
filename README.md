@@ -21,6 +21,9 @@ Present experimental and conceptual work is conducted under a pseudonym:
 ### Latest works
 - [Narrative Transportation and Speciesism in Large Language Models](https://doi.org/10.5281/zenodo.21294610): Futurekind Fellowship Spring 2026
 
+### Past works
+- [End to End Gesture Recognition](https://ieeexplore.ieee.org/document/11142252): IEEE Access 2025
+
 ## Gyronics
 **Website:** [Gyronics](https://gyronics.com)  
 Co-founder and Lead AI. Leading the design and development of AI systems for gesture recognition and human-AI interaction.
